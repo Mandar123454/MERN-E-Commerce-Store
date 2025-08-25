@@ -1,4 +1,4 @@
-# MERN E-Commerce Website
+# MERN E-Commerce Store
 
 ## Overview
 A functional E-Commerce website built with MongoDB, ExpressJS, ReactJS, and Node.js. Features include product listing, cart management, and dynamic price updates.
