@@ -1,0 +1,21 @@
+body {
+  background: #181A20;
+  color: #e1e1e6;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+.container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #22232A;
+  border-radius: 22px;
+  box-shadow: 0 10px 38px 0 rgba(18,22,33,0.21);
+}
+h1 {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 700;
+  color: #f2f2f7;
+  letter-spacing: 1px;
+  text-align: left;
+  margin-bottom: 24px;
+}
