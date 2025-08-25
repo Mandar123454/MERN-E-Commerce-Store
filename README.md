@@ -51,3 +51,6 @@ See `/public/Dashboard.png`, `/public/Cart.png`, `/public/Results.png` for UI ex
 
 ## Author
 - Mandar Kajbaje
+
+## MIT License
+This Project is under MIT License.
